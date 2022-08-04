@@ -76,7 +76,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/simplifiedguide\/wp-admin\/admin-ajax.ph
 </script>
 <script src="https://simplifiedguide.net/wp-includes/js/wp-util.min.js?ver=6.0.1" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"d5e35b513f"};
+var userProfileL10n = {"user_id":"0","nonce":"7eebdc45d0"};
 </script>
 <script src="https://simplifiedguide.net/wp-admin/js/user-profile.min.js?ver=6.0.1" id="user-profile-js"></script>
 			<script>
